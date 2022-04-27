@@ -1,0 +1,1 @@
+gcc -Wfatal-errors -Werror -Wpedantic -pedantic-errors -Wall -Wextra -o main main.c canvas.c color.c -lSDL2 -lm
